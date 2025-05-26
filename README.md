@@ -1,4 +1,4 @@
-# Hi, I'm Ulaş Polat 👋
+# Hi, I'm Ulaş 👋
 
 🧑‍💻 About me:
 
