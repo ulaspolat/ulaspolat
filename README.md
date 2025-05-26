@@ -8,4 +8,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ulas-polat)
 
 ## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ulaspolat&show_icons=true&theme=radical)](https://github.com/ulaspolat)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ulaspolat&theme=radical)](https://github.com/ulaspolat)
